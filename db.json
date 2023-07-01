@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "name": "Arpit Kumar",
+      "email": "shuklaji9706@gmail.com",
+      "password": "dfrgrg",
+      "id": 1
+    },
+    {
+      "name": "raja",
+      "email": "shuklaji9706@gmail.com",
+      "password": "raja123",
+      "id": 2
+    },
+    {
+      "name": "Golu",
+      "email": "arpit@gmail.com",
+      "password": "golu",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "a123",
+      "id": 4
+    },
+    {
+      "name": "b",
+      "email": "b@gmail.com",
+      "password": "b123",
+      "id": 5
+    },
+    {
+      "name": "c",
+      "email": "c@gmail.com",
+      "password": "c123",
+      "id": 6
+    }
+  ],
+  "userIncome": [
+    {
+      "type": "income",
+      "category": "housing",
+      "amount": "4657",
+      "date": "2023-06-14",
+      "id": 1
+    },
+    {
+      "type": "income",
+      "income": "gifts",
+      "amount": "2435",
+      "date": "2023-06-15",
+      "id": 2
+    },
+    {
+      "type": "income",
+      "income": "refunds",
+      "amount": "654654",
+      "date": "2023-06-01",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "income": "refunds",
+      "amount": "2143",
+      "date": "2023-06-01",
+      "id": 4
+    }
+  ],
+  "userExpense": [
+    {
+      "id": 1,
+      "type": "expenses"
+    },
+    {
+      "type": "expenses",
+      "expenses": "food",
+      "amount": "14",
+      "date": "2023-06-29",
+      "id": 2
+    },
+    {
+      "type": "expenses",
+      "expenses": "food",
+      "amount": "14",
+      "date": "2023-06-29",
+      "id": 3
+    },
+    {
+      "type": "expenses",
+      "expenses": "food",
+      "amount": "14",
+      "date": "2023-06-29",
+      "id": 4
+    },
+    {
+      "type": "expenses",
+      "expenses": "vehicle",
+      "amount": "22456",
+      "date": "2023-06-08",
+      "id": 5
+    },
+    {
+      "type": "expenses",
+      "expenses": "vehicle",
+      "amount": "22456",
+      "date": "2023-06-08",
+      "id": 6
+    },
+    {
+      "type": "expenses",
+      "expenses": "vehicle",
+      "amount": "22456",
+      "date": "2023-06-08",
+      "id": 7
+    },
+    {
+      "type": "expenses",
+      "expenses": "housing",
+      "amount": "2143",
+      "date": "2023-06-01",
+      "id": 8
+    }
+  ]
+}
